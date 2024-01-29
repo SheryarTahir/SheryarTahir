@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Sheryar Tahir</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I'm currently studying the advanced topics of Flutter.
+- 🔭 I’m currently studying Computer Science.
+- 🌱 I'm currently working on Flutter.
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: tahirsheryar6@gmail.com
 - ⚡ Fun fact: I'm coming to teen
