@@ -11,7 +11,8 @@
   <a href="https://github.com/SheryarTahir">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
- <a [![LinkedIn][linkedin-shield]][linkedin-https://www.linkedin.com/in/sheryar-tahir-b0549724a/]
+   <a href="https://www.linkedin.com/in/sheryar-tahir-b0549724a/">
+    <img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
   </a>
    <a href="https://www.instagram.com/im.s.h.e.r/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
