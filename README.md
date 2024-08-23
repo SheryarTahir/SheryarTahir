@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying Computer Science.
 - 🌱 I'm currently working on Flutter.
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: tahirsheryar6@gmail.com
+- 📫 How to reach me: tahirsheryar546@gmail.com
 - ⚡ Fun fact: I'm coming to teen
   
 ### Connect with me:
