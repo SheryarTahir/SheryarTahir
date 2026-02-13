@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying Computer Science.
 - 🌱 I'm currently working on Rust & Java.
-- 💬 Ask me anything about Rust and Java 
+- 💬 Ask me anything about Rust & Java 
 - 📫 How to reach me: tahirsheryar546@gmail.com
 - ⚡ Fun fact: I'm coming to teen
   
