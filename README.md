@@ -1,37 +1,52 @@
- <h1 align="center">Hi 👋, I'm Sheryar Tahir</h1>
+<h1 align="center">Hi 👋, I'm Sheryar Tahir</h1>
+<h3 align="center">CS Student | Java (DSA) | Learning Rust | Aspiring Backend Developer</h3>
 
-- 🔭 I’m currently studying Computer Science.
-- 🌱 I'm currently working on Rust & Java.
-- 💬 Ask me anything about Rust & Java 
-- 📫 How to reach me: tahirsheryar546@gmail.com
-- ⚡ Fun fact: I'm coming to teen
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/SheryarTahir">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-   <a href="https://www.linkedin.com/in/sheryar-tahir-b0549724a/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
-  </a>
-   <a href="https://www.instagram.com/im.s.h.e.r/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://www.facebook.com/sheryar.tahir.180/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/SheryarTahir24">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+---
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,postman,c,cpp,java,rust,line=5)](https://skillicons.dev)
+### 👨‍💻 About Me:
+- 🎓 4th Semester Computer Science Student (3.83 GPA)
+- 💻 Strong foundation in Java & Data Structures
+- 🦀 Currently learning Rust (Ownership, Borrowing, References)
+- 🎯 Interested in Backend & Systems Programming
+- 📫 Reach me at: tahirsheryar546@gmail.com
 
-![Sheryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheryarTahir&show_icons=true&theme=dark)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheryarTahir&theme=dark)
+### 🌐 Connect with me:
 
+<p align="left">
+<a href="https://github.com/SheryarTahir" target="blank">
+<img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sheryar-tahir-b0549724a/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/SheryarTahir24" target="blank">
+<img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</p>
 
-<br>
+---
+
+### 🛠 Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=java,rust,cpp,c,git,github,postman&perline=4)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats:
+
+![Sheryar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SheryarTahir&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SheryarTahir&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Current Focus:
+- Strengthening Problem Solving
+- Learning Backend Development (Java → Spring Boot Next)
+- Exploring Systems Programming with Rust
+
+---
+
 ⭐️ From [SheryarTahir](https://github.com/SheryarTahir)
