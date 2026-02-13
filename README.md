@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Sheryar Tahir</h1>
 
 - 🔭 I’m currently studying Computer Science.
-- 🌱 I'm currently working on Flutter.
-- 💬 Ask me anything about Flutter 
+- 🌱 I'm currently working on Rust & Java.
+- 💬 Ask me anything about Rust and Java 
 - 📫 How to reach me: tahirsheryar546@gmail.com
 - ⚡ Fun fact: I'm coming to teen
   
@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,postman,c,cpp,java,line=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,github,git,postman,c,cpp,java,rust,line=5)](https://skillicons.dev)
 
 ![Sheryar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheryarTahir&show_icons=true&theme=dark)
 
