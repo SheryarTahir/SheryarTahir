@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sheryar Tahir</h1>
-<h3 align="center">Java (DSA) • Rust Learner • Future Backend Engineer</h3>
+<h3 align="center">Java & Rust Learner • Aspiring Backend Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 BS Computer Science — 4th Semester (3.83 GPA)
-- ☕ Built strong foundations with Java & Data Structures
-- 🦀 Currently diving into Rust (Ownership • Borrowing • References)
-- ⚙️ Interested in Backend & Systems Programming
-- 📫 tahirsheryar546@gmail.com
+- 💻 Passionate about programming and problem solving
+- 🦀 Learning Rust and exploring systems programming
+- ☕ Strong foundation in Java and algorithms
+- ⚙️ Interested in Backend Development
+- 📫 Reach me at: tahirsheryar546@gmail.com
 
 ---
 
@@ -37,23 +37,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SheryarTahir&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SheryarTahir&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SheryarTahir&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SheryarTahir&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ### 🚀 Current Focus
 
-- 🧩 Sharpening Problem Solving Skills
-- ☕ Preparing for Spring Boot (Next Step)
-- 🦀 Strengthening Rust Fundamentals
-- 📚 Building strong backend foundations
+- 🧩 Improving problem solving and algorithms
+- 🦀 Learning Rust deeply
+- ☕ Building backend development skills
+- 📚 Strengthening programming foundations
 
 ---
 
 <p align="center">
-  ⚡ Consistency builds mastery.
+  ⚡ Keep learning, keep growing.
 </p>
 
 ---
