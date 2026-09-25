@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SheryarTahir&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SheryarTahir&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SheryarTahir&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheryarTahir&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
