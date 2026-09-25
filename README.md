@@ -29,7 +29,7 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,rust,cpp,c,git,github,postman&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,rust,python,cpp,c,git,github,postman&perline=4" />
 </p>
 
 
